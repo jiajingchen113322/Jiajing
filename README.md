@@ -1,5 +1,5 @@
 # Jiajing
-700 homework
+700 homework.
 In this taks, I design a network for sorting hand writting image
 The ConNTM.py contains all code for the combination of CNN and NTM
 Besides, the conlistm.py is the network combines CNN and LSTM for images sorting.
